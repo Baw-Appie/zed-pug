@@ -1,0 +1,11 @@
+id = "pug"
+name = "Pug"
+version = "0.0.1"
+schema_version = 1
+authors = ["BawAppie <pp121324@gmail.com>"]
+description = "Pug syntax support for Zed"
+repository = "https://github.com/Baw-Appie/zed-pug"
+
+[grammars.pug]
+repository = "https://github.com/zealot128/tree-sitter-pug"
+commit = "a7ff31a38908df9b9f34828d21d6ca5e12413e18"
