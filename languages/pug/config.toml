@@ -1,6 +1,6 @@
 name = "Pug"
 grammar = "pug"
-path_suffixes = ["pug"]
+path_suffixes = ["pug", "jade"]
 line_comments = ["//"]
 block_comment = ["/*", "*/"]
 autoclose_before = ")}]"
